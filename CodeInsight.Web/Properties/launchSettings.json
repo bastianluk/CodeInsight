@@ -3,8 +3,7 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:23008",
-      "sslPort": 44333
+      "applicationUrl": "https://code-insight-commits.herokuapp.com/",
     }
   },
   "profiles": {
@@ -18,7 +17,7 @@
     "CodeInsight.Web": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "applicationUrl": "https://code-insight-commits.herokuapp.com/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
